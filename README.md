@@ -32,7 +32,7 @@ Since all the videos are captured by surveillance cameras in public places, many
 
 - Crowds and chaos
 
-  <img src="https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detectionn/raw/master/Images/crowded.gif" width="400px" height="250px">
+  <img src="https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection/raw/master/Images/crowded.gif" width="400px" height="250px">
 
 - Small object at far distance
 
