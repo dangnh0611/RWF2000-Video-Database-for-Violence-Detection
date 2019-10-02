@@ -1,4 +1,4 @@
-## Detection of Violent Behavior under Surveillance Camera
+## RWF2000 - A Large Scale Video Database for Violence Detection
 
 
 
@@ -18,7 +18,7 @@ We are considering how to use techniques of video understanding to detect violen
 
 - Finally we got 2000 clips and 300,000 frames as a new data set for real-world violent behavior detection under surveillance camera.
 
-  <img src="https://github.com/mchengny/Fighting_Detection/raw/master/Images/demo1.gif" width="400px" height="250px">
+  <img src="https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection/raw/master/Images/demo1.gif" width="400px" height="250px">
 
 
 
@@ -46,7 +46,9 @@ Since all the videos are captured by surveillance cameras in public places, many
 
   <img src="https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection/raw/master/Images/transient.gif" width="400px" height="250px">
 
+### Download
 
+To download the released dataset, please send an e-mail to us (ming.cheng@dukekunshan.edu.cn) including details of contact information (full name, title, institution, and country) and the purpose for using the dataset. Notes for students: we require your academic supervisor to write this e-mail on your behalf. 
 
 
 
