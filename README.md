@@ -60,7 +60,7 @@ To download the released dataset, please:
 
 Kindly remind: using the proposed dataset, please cite:
 
-Ming Cheng, Kunjing Cai, and Ming Li. "RWF-2000: An Open Large Scale Video Database for Violence Detection." arXiv preprint arXiv:1911.05913 (2019).
+`Ming Cheng, Kunjing Cai, and Ming Li. "RWF-2000: An Open Large Scale Video Database for Violence Detection." arXiv preprint arXiv:1911.05913 (2019).`
 
 
 
