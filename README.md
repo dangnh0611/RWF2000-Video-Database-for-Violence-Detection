@@ -46,9 +46,27 @@ Since all the videos are captured by surveillance cameras in public places, many
 
   <img src="https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection/raw/master/Images/transient.gif" width="400px" height="250px">
 
+
+
 ### Download
 
-To download the released dataset, please send an e-mail to us (ming.cheng@dukekunshan.edu.cn) including details of contact information (full name, title, institution, and country) and the purpose for using the dataset. Notes for students: we require your academic supervisor to write this e-mail on your behalf. 
+To download the released dataset, please:
+
+1. download the *Agreement Sheet.pdf* and sign it. 
+2. Send the PDF version of scanned *Agreement Sheet* with signature to ming.cheng@dukekunshan.edu.cn
+3. We will return an e-mail with download link to you as soon as possible.
+
+ 
+
+Kindly remind: using the proposed dataset, please cite:
+
+Ming Cheng, Kunjing Cai, and Ming Li. "RWF-2000: An Open Large Scale Video Database for Violence Detection." arXiv preprint arXiv:1911.05913 (2019).
+
+
+
+### Note
+
+Since the dataset contains 2,000 video clips extracted from about 1,000 unique videos, we have manually checked the train set, validation set and test set to avoid the data leakage between three parts. We suggest you to keep the original partition, and do not re-shuffle the entire dataset.
 
 
 
