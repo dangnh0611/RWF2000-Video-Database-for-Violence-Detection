@@ -1,4 +1,8 @@
 *.txt
-/Making_Datasets
+
+/Making_Datasets/
+
 *.gitignore
+
+*.DS_Store
 
