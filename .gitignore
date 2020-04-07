@@ -1,0 +1,9 @@
+*.txt
+
+/Making_Datasets/
+
+*.DS_Store
+
+*.ipynb_checkpoints
+
+*/__pycache__
