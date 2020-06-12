@@ -1,6 +1,7 @@
 *.txt
 
 /Making_Datasets
+/Comparisons
 
 *.DS_Store
 

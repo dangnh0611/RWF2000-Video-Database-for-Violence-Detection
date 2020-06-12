@@ -12,13 +12,13 @@ We are considering how to use techniques of video understanding to detect violen
 
 ### File Description
 
-- **Dataset_Preprocess** contains the python script to transform original video dataset to .npy files. Each .npy file is a tensor with shape = [nb_frames, img_height, img_width, 5]. The last channel contains 3 layers for RGB components and 2 layers for optical flows (vertical and horizontal components, respectively ).
+- **Preprocess** contains the python script to transform original video dataset to .npy files. Each .npy file is a tensor with shape = [nb_frames, img_height, img_width, 5]. The last channel contains 3 layers for RGB components and 2 layers for optical flows (vertical and horizontal components, respectively ).
 
 - **Networks** contain the keras implemention of our propsoed model. Also, the training scripts of single stream are provided here.
 
-- **Comparisons** contain the C3D, ConvLSTM and I3D models which are re-implemented by ourselfves. They are used to give some baselines on our proposed dataset.
+- **Models** contains the pre-trained model implemented by Keras.
 
-
+  
 
 ### Dataset
 
@@ -93,15 +93,6 @@ Kindly remind: using the proposed dataset, please cite:
 ### Note
 
 Since the dataset contains 2,000 video clips extracted from about 1,000 unique videos, we have manually checked the train set, validation set and test set to avoid the data leakage between three parts. We suggest you to keep the original partition, and do not re-shuffle the entire dataset.
-
-
-
-### References
-
-- The implementation of ConvLSTM: https://github.com/liorsidi/ViolenceDetection_CNNLSTM
-- The implementation of I3D: https://github.com/dlpbc/keras-kinetics-i3d
-
-
 
 
 
