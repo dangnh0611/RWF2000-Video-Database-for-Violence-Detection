@@ -92,7 +92,7 @@ Kindly remind: using the proposed dataset, please cite:
 
 ### Note
 
-Since the dataset contains 2,000 video clips extracted from about 1,000 unique videos, we have manually checked the train set, validation set and test set to avoid the data leakage between three parts. We suggest you to keep the original partition, and do not re-shuffle the entire dataset.
+Since the dataset contains 2,000 video clips extracted from about 1,000 unique videos, we have manually checked the train set and test set to avoid the data leakage between different parts. We suggest you to keep the original partition and only separate a validation set from the train set, but do not re-shuffle the entire dataset.
 
 
 
